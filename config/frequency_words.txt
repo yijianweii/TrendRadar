@@ -10,7 +10,6 @@ DJI
 
 字节
 bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -35,11 +34,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
